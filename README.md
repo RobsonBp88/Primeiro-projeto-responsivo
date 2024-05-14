@@ -8,4 +8,7 @@
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
 <img src="https://github.com/RobsonBp88/easy-shopping/blob/main/print%20projeto%201.png?raw=true">
+<br>
+<br>
+<img src="https://github.com/RobsonBp88/easy-shopping/blob/main/print%20projeto%20smartphone.png?raw=true">
 
